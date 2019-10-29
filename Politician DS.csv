@@ -1,101 +1,101 @@
-S/N,Name,Position,Political Party,Elected
-1,Okezie Ikpeazu,Current Governor of Abia State,PDP,2019
-2,Ahmadu Umaru Fintiri,Current Governor of Adamawa State,PDP,2019
-3,Udom Gabriel Emmanuel,Current Governor of Akwa-Ibom State,PDP,2019
-4,Willie Obiano,Current Governor of Anambra State,APGA,2014
-5,Ude Oko Chukwu,Deputy Governor of Abia State,PDP,2019
-6,Crowther Seth,Deputy Governor of Adamawa State,PDP,2019
-7,Moses Ekpo,Deputy Governor of Akwa-Ibom State,PDP,2019
-8,Dr. Nkem Okeke,Deputy Governor of Anambra State,APGA,2014
-9,Bala Muhammed,Current Govenor of Bauchi State,PDP,2019
-10,Baba Tela,Deputy Govenor of Bauchi State,PDP,2019
-11,Henry Dickson,Current Governor of Bayelsa State,PDP,2012
-12,Gboribiogha John Jonah,Deputy Governor of Bayelsa State,PDP,2012
-13,Samuel Ortom,Current Governor of Benue State,PDP,2015
-14,Benson Abounu,Deputy Governor of Benue State,PDP,2015
-15,BabaGana Umara,Current Governor of Borno State,APC,2019
-16,Umar Usman Kadafur,Deputy Governor of Borno State,APC,2019
-17,Benedict Ayade,Current Governor of Cross-River State,PDP,2019
-18,Ivara Esu,Deputy Governor of Cross-River State,PDP,2019
-19,Ifeanyi Okowa,Current Governor of Delta State,PDP,2019
-20,Kingsley Otuaro,Deputy Governor of Delta State,PDP,2019
-21,Dave Umahi,Current Governor of Ebonyi State,PDP,2019
-22,Eric Kelechi Igwe,Deputy Governor of Ebonyi State,PDP,2019
-23,Godwin Obaseki,Current Governor of Edo State,APC,2016
-24,Philip Shaibu,Deputy Governor of Edo State,APC,2016
-25,Kayode Fayemi,Current Governor of Ekiti State,APC,2014
-26,Kolapo Olushola,Deputy Governor of Ekiti State,APC,2014
-27,Ifeanyi Ugwuanyi,Current Governor of Enugu State,PDP,2019
-28,Cecilia Ezeilo,Deputy Governor of Enugu State,PDP,2019
-29,Muhammad Inuwa Yahaya,Current Governor of Gombe State,APC,2019
-30,Manasseh Daniel Jatau,Deputy Governor of Gombe State,APC,2019
-31,Chukwuemeka Ihedioha,Current Governor of Imo State,PDP,2019
-32,Irona Alphonsus,Deputy Governor of Imo State,PDP,2019
-33,Badaru Abubakar,Current Governor of Jigawa State,APC,2019
-34,Umar Alhaji Namadi,Deputy Governor of Jigawa State,APC,2019
-35,Nasir Ahmad el-Rufai,Current Governor of Kaduna State,APC,2019
-36,Yusuf Barnabas Bala,Deputy Governor of Kaduna State,APC,2019
-37,Abdullahi Umar Ganduje,Current Governor of Kano State,APC,2015
-38,Hafiz Abubakar,Deputy Governor of Kano State,APC,2015
-39,Aminu Bello Masari,Current Governor of Katsina State,APC,2019
-40,Mannir Yakubu,Deputy Governor of Katsina State,APC,2019
-41,Abubakar Atiku Bagudu,Current Governor of Kebbi State,APC,2019
-42,Samaila Yombe Dabai,Deputy Governor of Kebbi State,APC,2019
-43,Yahaya Bello,Current Governor of Kogi State,APC,2016
-44,Simon Achuba,Deputy Governor of Kogi State,APC,2016
-45,AbdulRahman AbdulRasaq,Current Governor of Kwara State,APC,2019
-46,Kayode Alibi,Deputy Governor of Kwara State,APC,2019
-47,Babajide Sanwo-Olu,Current Governor of Lagos State,APC,2019
-48,Kadri Obafemi Hamzat,Deputy Governor of Lagos State,APC,2019
-49,Abdullahi Sule,Current Governor of Nasarawa State,APC,2019
-50,Emmanuel Agbadu Akabe,Deputy Governor of Nasarawa State,APC,2019
-51,Abubakar Sani Bello,Current Governor of Niger State,APC,2019
-52,Ahmed Muhammad Ketso,Deputy Governor of Niger State,APC,2019
-53,Dapo Abiodun,Current Governor of Ogun State,APC,2019
-54,Salako-Oyedele Noimot Olurotimi,Deputy Governor of Ogun State,APC,2019
-55,Oluwarotimi Odunayo Akeredolu,Current Governor of Ondo State,APC,2017
-56,Agboola Ajayi,Deputy Governor of Ondo State,APC,2017
-57,Adegboyega Oyetola,Current Governor of Osun State,APC,2018
-58,Gboyega Alabi,Deputy Governor of Osun State,APC,2018
-59,Oluwaseyi Makinde,Current Governor of Oyo State,PDP,2019
-60,Rauf Aderemi Olaniyan,Deputy Governor of Oyo State,PDP,2019
-61,Simon Lalong,Current Governor of Plateau State,APC,2015
-62,Sonni Gwanle Tyoden,Deputy Governor of Plateau State,APC,2015
-63,Ezenwo Nyesom Wike,Current Governor of Rivers State,PDP,2019
-64,Ipalibo Banigo,Deputy Governor of Rivers State,PDP,2019
-65,Aminu Waziri Tambuwal,Current Governor of Sokoto State,PDP,2015
-66,Ahmad Aliyu,Deputy Governor of Sokoto State,PDP,2015
-67,Arch. Darius Ishaku,Current Governor of Taraba State,PDP,2019
-68,Haruna Manu,Deputy Governor of Taraba State,PDP,2019
-69,Mau Mala Buni,Current Governor of Yobe State,APC,2019
-70,Idi Barade Gubana,Deputy Governor of Yobe State,APC,2019
-71,Bello Matawalle,Current Governor of Zamfara State,PDP,2019
-72,Mahdi Aliyu Gusau,Deputy Governor of Zamfara State,PDP,2019
-73,Ramatu Tijani,"Current Minister of Abuja, FCT",APC,2019
-74,Godswill Akpabio,Former Governor of Akwa-Ibom State,PDP,2015
-75,Victor Attah,Former Governor of Akwa-Ibom State,PDP,2007
-76,Clement Isong,Former Governor of Cross River State,NPN,1979
-77,Liyel Imoke,Former Governor of Cross River State,PDP,2015
-78,Donald Duke,Former Governor of Cross River State,PDP,2007
-79,Babatunde Fashola,Former Governor of Lagos State,APC,2015
-80,Akinwunmi Ambode,Former Governor of Lagos State,APC,2019
-81,Bola Tinubu,Former Governor of Lagos State,AFD,2007
-82,Muhammadu Buhari,President of Nigeria,APC,2019
-83,Goodluck Jonathan,"Former President of Nigeria, Former Vice President",PDP,2015
-84,Umaru Musa Yar'Adua,Former President of Nigeria,PDP,2010
-85,Olusegun Obasanjo,Former President of Nigeria,PDP,2007
-86,Femi Gbajabiamila,Speaker of the House of Representatives,APC,2019
-87,Yakubu Dogara,Former speaker of the House of Representatives,"APC, PDP",2019
-88,Aminu Waziri Tambuwal,Former speaker of the House of Representatives,"PDP, APC",2015
-89,Dimeji Bankole,Former speaker of the House of Representatives,PDP,2011
-90,Patricia Etteh,Former speaker of the House of Representatives,PDP,2007
-91,Aminu Bello Masari,Former speaker of the House of Representatives,PDP,2007
-92,Ghali Umar Na'Abba,Former speaker of the House of Representatives,PDP,2003
-93,Salisu Buhari,Former speaker of the House of Representatives,PDP,2000
-94,Chaha Biam,Former speaker of the House of Representatives,NPN,1983
-95,Edwin Ume-Ezeoke,Former speaker of the House of Representatives,NPN,1983
-96,Ibrahim Jalo Waziri,Former speaker of the House of Representatives,NPC,1966
-97,Jaja Wachuku,Former speaker of the House of Representatives,NCNC,1960
-98,Frederic Metcalfe,Former speaker of the House of Representatives,NaN,1959
-99,,,,
-100,,,,
+S/N,Name,Position,Political Party,Elected,Posts
+1,Okezie Ikpeazu,Current Governor of Abia State,PDP,2019,NaN
+2,Ahmadu Umaru Fintiri,Current Governor of Adamawa State,PDP,2019,NaN
+3,Udom Gabriel Emmanuel,Current Governor of Akwa-Ibom State,PDP,2019,NaN
+4,Willie Obiano,Current Governor of Anambra State,APGA,2014,NaN
+5,Ude Oko Chukwu,Deputy Governor of Abia State,PDP,2019,NaN
+6,Crowther Seth,Deputy Governor of Adamawa State,PDP,2019,NaN
+7,Moses Ekpo,Deputy Governor of Akwa-Ibom State,PDP,2019,NaN
+8,Dr. Nkem Okeke,Deputy Governor of Anambra State,APGA,2014,NaN
+9,Bala Muhammed,Current Govenor of Bauchi State,PDP,2019,NaN
+10,Baba Tela,Deputy Govenor of Bauchi State,PDP,2019,NaN
+11,Henry Dickson,Current Governor of Bayelsa State,PDP,2012,NaN
+12,Gboribiogha John Jonah,Deputy Governor of Bayelsa State,PDP,2012,NaN
+13,Samuel Ortom,Current Governor of Benue State,PDP,2015,NaN
+14,Benson Abounu,Deputy Governor of Benue State,PDP,2015,NaN
+15,BabaGana Umara,Current Governor of Borno State,APC,2019,NaN
+16,Umar Usman Kadafur,Deputy Governor of Borno State,APC,2019,NaN
+17,Benedict Ayade,Current Governor of Cross-River State,PDP,2019,NaN
+18,Ivara Esu,Deputy Governor of Cross-River State,PDP,2019,NaN
+19,Ifeanyi Okowa,Current Governor of Delta State,PDP,2019,NaN
+20,Kingsley Otuaro,Deputy Governor of Delta State,PDP,2019,NaN
+21,Dave Umahi,Current Governor of Ebonyi State,PDP,2019,NaN
+22,Eric Kelechi Igwe,Deputy Governor of Ebonyi State,PDP,2019,NaN
+23,Godwin Obaseki,Current Governor of Edo State,APC,2016,NaN
+24,Philip Shaibu,Deputy Governor of Edo State,APC,2016,NaN
+25,Kayode Fayemi,Current Governor of Ekiti State,APC,2014,NaN
+26,Kolapo Olushola,Deputy Governor of Ekiti State,APC,2014,NaN
+27,Ifeanyi Ugwuanyi,Current Governor of Enugu State,PDP,2019,NaN
+28,Cecilia Ezeilo,Deputy Governor of Enugu State,PDP,2019,NaN
+29,Muhammad Inuwa Yahaya,Current Governor of Gombe State,APC,2019,NaN
+30,Manasseh Daniel Jatau,Deputy Governor of Gombe State,APC,2019,NaN
+31,Chukwuemeka Ihedioha,Current Governor of Imo State,PDP,2019,NaN
+32,Irona Alphonsus,Deputy Governor of Imo State,PDP,2019,NaN
+33,Badaru Abubakar,Current Governor of Jigawa State,APC,2019,NaN
+34,Umar Alhaji Namadi,Deputy Governor of Jigawa State,APC,2019,NaN
+35,Nasir Ahmad el-Rufai,Current Governor of Kaduna State,APC,2019,NaN
+36,Yusuf Barnabas Bala,Deputy Governor of Kaduna State,APC,2019,NaN
+37,Abdullahi Umar Ganduje,Current Governor of Kano State,APC,2015,NaN
+38,Hafiz Abubakar,Deputy Governor of Kano State,APC,2015,NaN
+39,Aminu Bello Masari,Current Governor of Katsina State,APC,2019,NaN
+40,Mannir Yakubu,Deputy Governor of Katsina State,APC,2019,NaN
+41,Abubakar Atiku Bagudu,Current Governor of Kebbi State,APC,2019,NaN
+42,Samaila Yombe Dabai,Deputy Governor of Kebbi State,APC,2019,NaN
+43,Yahaya Bello,Current Governor of Kogi State,APC,2016,NaN
+44,Simon Achuba,Deputy Governor of Kogi State,APC,2016,NaN
+45,AbdulRahman AbdulRasaq,Current Governor of Kwara State,APC,2019,NaN
+46,Kayode Alibi,Deputy Governor of Kwara State,APC,2019,NaN
+47,Babajide Sanwo-Olu,Current Governor of Lagos State,APC,2019,NaN
+48,Kadri Obafemi Hamzat,Deputy Governor of Lagos State,APC,2019,NaN
+49,Abdullahi Sule,Current Governor of Nasarawa State,APC,2019,NaN
+50,Emmanuel Agbadu Akabe,Deputy Governor of Nasarawa State,APC,2019,NaN
+51,Abubakar Sani Bello,Current Governor of Niger State,APC,2019,NaN
+52,Ahmed Muhammad Ketso,Deputy Governor of Niger State,APC,2019,NaN
+53,Dapo Abiodun,Current Governor of Ogun State,APC,2019,NaN
+54,Salako-Oyedele Noimot Olurotimi,Deputy Governor of Ogun State,APC,2019,NaN
+55,Oluwarotimi Odunayo Akeredolu,Current Governor of Ondo State,APC,2017,NaN
+56,Agboola Ajayi,Deputy Governor of Ondo State,APC,2017,NaN
+57,Adegboyega Oyetola,Current Governor of Osun State,APC,2018,NaN
+58,Gboyega Alabi,Deputy Governor of Osun State,APC,2018,NaN
+59,Oluwaseyi Makinde,Current Governor of Oyo State,PDP,2019,NaN
+60,Rauf Aderemi Olaniyan,Deputy Governor of Oyo State,PDP,2019,NaN
+61,Simon Lalong,Current Governor of Plateau State,APC,2015,NaN
+62,Sonni Gwanle Tyoden,Deputy Governor of Plateau State,APC,2015,NaN
+63,Ezenwo Nyesom Wike,Current Governor of Rivers State,PDP,2019,NaN
+64,Ipalibo Banigo,Deputy Governor of Rivers State,PDP,2019,NaN
+65,Aminu Waziri Tambuwal,Current Governor of Sokoto State,PDP,2015,NaN
+66,Ahmad Aliyu,Deputy Governor of Sokoto State,PDP,2015,NaN
+67,Arch. Darius Ishaku,Current Governor of Taraba State,PDP,2019,NaN
+68,Haruna Manu,Deputy Governor of Taraba State,PDP,2019,NaN
+69,Mau Mala Buni,Current Governor of Yobe State,APC,2019,NaN
+70,Idi Barade Gubana,Deputy Governor of Yobe State,APC,2019,NaN
+71,Bello Matawalle,Current Governor of Zamfara State,PDP,2019,NaN
+72,Mahdi Aliyu Gusau,Deputy Governor of Zamfara State,PDP,2019,NaN
+73,Ramatu Tijani,"Current Minister of Abuja, FCT",APC,2019,NaN
+74,Godswill Akpabio,Former Governor of Akwa-Ibom State,PDP,2015,NaN
+75,Victor Attah,Former Governor of Akwa-Ibom State,PDP,2007,NaN
+76,Clement Isong,Former Governor of Cross River State,NPN,1979,NaN
+77,Liyel Imoke,Former Governor of Cross River State,PDP,2015,NaN
+78,Donald Duke,Former Governor of Cross River State,PDP,2007,NaN
+79,Babatunde Fashola,Former Governor of Lagos State,APC,2015,NaN
+80,Akinwunmi Ambode,Former Governor of Lagos State,APC,2019,NaN
+81,Bola Tinubu,Former Governor of Lagos State,AFD,2007,NaN
+82,Muhammadu Buhari,President of Nigeria,APC,2019,NaN
+83,Goodluck Jonathan,"Former President of Nigeria, Former Vice President",PDP,2015,NaN
+84,Umaru Musa Yar'Adua,Former President of Nigeria,PDP,2010,NaN
+85,Olusegun Obasanjo,Former President of Nigeria,PDP,2007,NaN
+86,Femi Gbajabiamila,Speaker of the House of Representatives,APC,2019,NaN
+87,Yakubu Dogara,Former speaker of the House of Representatives,"APC, PDP",2019,NaN
+88,Aminu Waziri Tambuwal,Former speaker of the House of Representatives,"PDP, APC",2015,NaN
+89,Dimeji Bankole,Former speaker of the House of Representatives,PDP,2011,NaN
+90,Patricia Etteh,Former speaker of the House of Representatives,PDP,2007,NaN
+91,Aminu Bello Masari,Former speaker of the House of Representatives,PDP,2007,NaN
+92,Ghali Umar Na'Abba,Former speaker of the House of Representatives,PDP,2003,NaN
+93,Salisu Buhari,Former speaker of the House of Representatives,PDP,2000,NaN
+94,Chaha Biam,Former speaker of the House of Representatives,NPN,1983,NaN
+95,Edwin Ume-Ezeoke,Former speaker of the House of Representatives,NPN,1983,NaN
+96,Ibrahim Jalo Waziri,Former speaker of the House of Representatives,NPC,1966,NaN
+97,Jaja Wachuku,Former speaker of the House of Representatives,NCNC,1960,NaN
+98,Frederic Metcalfe,Former speaker of the House of Representatives,NaN,1959,NaN
+99,,,,,
+100,,,,,
