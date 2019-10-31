@@ -10,7 +10,7 @@ Original file is located at
 !git clone https://github.com/Inyrkz/Politician-db.git
 
 import pandas as pd
-METADATA = pd.read_csv('/content/Politician-db/Politician DS.csv')
+METADATA = pd.read_csv('/content/Politician-db/Politician DS.csv', encoding = 'latin-1')
 METADATA.head(3)
 
 #Removing NaN values
