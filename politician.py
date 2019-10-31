@@ -7,10 +7,10 @@ Original file is located at
     https://colab.research.google.com/drive/1N4sUvPxKTYP1x4Bdp5KSNSZgwS_0-Qut
 """
 
-!git clone https://github.com/Inyrkz/Politician-db.git
+#!git clone https://github.com/Inyrkz/Politician-db.git
 
 import pandas as pd
-METADATA = pd.read_csv('/content/Politician-db/Politician DS.csv', encoding = 'latin-1')
+METADATA = pd.read_csv('Politician DS.csv', encoding = 'latin-1')
 METADATA.head(3)
 
 #Removing NaN values
