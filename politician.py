@@ -66,4 +66,4 @@ def get_recommendations(name, COSINE_SIM = COSINE_SIM):
   return METADATA['Name'].iloc[names]
 
 PNAME = input("Search Politician's name: ")
-get_recommendations(PNAME)
+print(get_recommendations(PNAME))
