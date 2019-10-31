@@ -17,7 +17,7 @@ METADATA.head(3)
 METADATA = METADATA.fillna('')
 
 #Convert the post column string
-METADATA["Elected"] = METADATA["Elected"].astype(int).astype(str)
+METADATA["Elected"] = METADATA["Elected"].astype(str)
 
 #Joining the other columns into one 
 METADATA["General"] = METADATA["Position"] + " " + METADATA["Political Party"] + " " +  METADATA["Elected"]+ " " +  METADATA["Posts"]
