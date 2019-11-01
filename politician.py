@@ -65,5 +65,5 @@ def get_recommendations(name, COSINE_SIM = COSINE_SIM):
   #Return the top 10 similar politicians
   return METADATA['Name'].iloc[names]
 
-# PNAME = input("Search Politician's name: ")
-# print(get_recommendations(PNAME))
+PNAME = input("Search Politician's name: ")
+print(get_recommendations(PNAME))
