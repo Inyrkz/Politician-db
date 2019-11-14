@@ -1,5 +1,4 @@
 from flask import Flask, request, jsonify
-# import numpy as np
 import json
 import pandas as pd
 from politician import get_recommendations
@@ -14,7 +13,8 @@ def predict():
     #Get data from Post request
     data =  request.json.get('Name')
     pred = get_recommendations(data)
-    return pred.to_json()
+    return jsonify({"Predictions": pred})
+    #return pred.to_json()
 
 if __name__ == "__main__":
    app.run(debug=True)

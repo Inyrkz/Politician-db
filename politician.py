@@ -46,24 +46,36 @@ indices = pd.Series(METADATA.index, index = METADATA['Name']).drop_duplicates()
 
 def get_recommendations(name, COSINE_SIM = COSINE_SIM):
   '''Function that takes in a politician's name as input and output similar politicians'''
+  #check if name is in database first
+  if METADATA['Name'].isin([name]).any() == True:
+      #Get the index of the name
+      idx = indices[name]
 
-  #Get the index of the name
-  idx = indices[name]
+      #Get the pairwise similarity score of all names with that name
+      sim_scores = list(enumerate(COSINE_SIM[idx]))
 
-  #Get the pairwise similarity score of all names with that name
-  sim_scores = list(enumerate(COSINE_SIM[idx]))
+      #sort the names based on similarity scores
+      sim_scores = sorted(sim_scores, key = lambda x: x[1], reverse = True)
 
-  #sort the names based on similarity scores
-  sim_scores = sorted(sim_scores, key = lambda x: x[1], reverse = True)
+      #Get the scores of the 10 most similar politicians
+      sim_scores = sim_scores[1:11]
 
-  #Get the scores of the 10 most similar politicians
-  sim_scores = sim_scores[1:11]
-
-  #Get the names
-  names = [i[0] for i in sim_scores] 
-
-  #Return the top 10 similar politicians
-  return list(METADATA['Name'].iloc[names].values[:])
-    
+      #Get the names
+      names = [i[0] for i in sim_scores] 
+      
+      #Return the top 10 similar politicians
+      recommendation = list(METADATA['Name'].iloc[names].values[:])
+      return recommendation 
+      
+      #view the simscore of each prediction
+    #   score = [i[1] for i in sim_scores] #get a list of just the sim score in the list of tuples of index and sim score
+    #   result = pd.Series(score, index=recommendation)
+    #   return result #returns a series of the recommendations as index and the sim score as data
+            
+  else:
+      return  "Name not found in database"
+      #if name is not in dataset, return the above
+        
 #PNAME = input("Search Politician's name: ")
-#print(get_recommendations('Moses Ekpo'))
+#print(get_recommendations(PNAME))
+# print(get_recommendations('Moses Ekpo'))
