@@ -3,9 +3,6 @@ import json
 import pandas as pd
 from politician import get_recommendations
 
-# from sklearn.feature_extraction.text import TfidfVectorizer
-# from sklearn.metrics.pairwise import linear_kernel
-
 app = Flask(__name__)
 
 @app.route('/', methods=['POST'])
