@@ -1,8 +1,14 @@
 '''flask restful api'''
+#importing some libraries
 import json
 from flask import Flask, request, jsonify
 from flask_restful import Api
-from politician import get_recommendations
+import politician
+#from politician import get_recommendations
+import pickle
+
+#load pickled model i.e model pkl
+model = pickle.load(open('model.pkl', 'rb'))
 
 app = Flask(__name__)
 api = Api(app)
@@ -13,7 +19,7 @@ def predict():
     #Get data from Post request
     data = request.json.get('Name')
     #fit input data into get recommendation function
-    pred = get_recommendations(data)
+    pred = model(data)
     return jsonify({"Predictions": pred})
     #return pred.to_json()
 

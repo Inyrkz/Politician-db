@@ -7,7 +7,7 @@ Original file is located at
 """
 
 #!git clone https://github.com/Inyrkz/Politician-db.git
-
+import pickle
 import pandas as pd
 METADATA = pd.read_csv('Politician DS.csv', encoding = 'latin-1')
 # METADATA.head(3)
@@ -79,3 +79,7 @@ def get_recommendations(name, COSINE_SIM = COSINE_SIM):
 #PNAME = input("Search Politician's name: ")
 #print(get_recommendations(PNAME))
 # print(get_recommendations('Moses Ekpo'))
+
+#pickling the model
+pickle.dump(get_recommendations, open('model.pkl', 'wb'))
+#w means i'll be writing to the file, b refers to binary mode
